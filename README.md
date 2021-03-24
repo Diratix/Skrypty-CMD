@@ -1,2 +1,2 @@
 # Skrypty-CMD
-Skrypty w cmd to gówno
+Skrypty w cmd < od skryptów w linuxie ;)
